@@ -10,9 +10,6 @@ import Contact from '../Images/information-fill.svg'
 import { Link } from 'react-router-dom'
 
 const SideNav = () => {
-
-
-
   return (
     <div className="w-[20%] min-h-screen border-r border-zinc-700 p-6 bg-[#1F1E24] flex flex-col">
       
